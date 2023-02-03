@@ -1,0 +1,6 @@
+InputText=[OLGS OUOIJSXIBYJEDXCDFWZBAOAGAIYZ]
+UkwNumber=[1]
+Wheel=[431]
+RotorWheel=[SQL]
+Ring=[DMZ]
+Plugboard=[AT BG DV EW FR HN IQ JX KY LU]
