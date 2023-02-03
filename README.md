@@ -1,14 +1,12 @@
 # Enigma-M3
-Enigma M3 Machine Engine Core
+Enigma M3 Machine Engine Core<p>
 
-Compile:
-g++ -o enigma EnigmaCore.cpp
+Compile:<br>
+g++ -o enigma EnigmaCore.cpp<p>
 
-Usage:
-<code>enigma <input file name></code>
-e.g. enigma myinputfile.txt
+Example of usage: enigma myinputfile.txt<br>
 
-The input file must follow the format below:<br>
+The input file must follow the format below:<p>
 
 <code>
 InputText=[OLGS OUOIJSXIBYJEDXCDFWZBAOAGAIYZ]
@@ -18,7 +16,7 @@ RotorWheel=[SQL]
 Ring=[DMZ]
 Plugboard=[AT BG DV EW FR HN IQ JX KY LU]
 </code>
-
+<p>
 There are 2 reflectors supported i.e. UKW-A and UKW-C.<br>
 UkwNumber: 0=UKW-A, 1=UKW-B<p>
 
