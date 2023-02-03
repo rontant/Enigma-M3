@@ -5,7 +5,7 @@ Compile:
 g++ -o enigma EnigmaCore.cpp
 
 Usage:
-<code>enigma <input file name></code>
+<quote>enigma followed by the input file name</quote>
 e.g. enigma myinputfile.txt
 
 The input file must follow the format below:
